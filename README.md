@@ -1,6 +1,6 @@
 #How To Install
 
-- Add
+Add
 
 - for version 7.0.1
 ```csharp

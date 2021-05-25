@@ -3,7 +3,7 @@ guid: c701bcf76bc54af3a75f54bdb55805cb
 labels:
 - gvh
 - gvh_targets-editor
-- gvh_version-7.0.1
+- gvh_version-7.0.2
 - gvhp_exportpath-Firebase/Editor/Firebase.Messaging.Editor.dll.mdb
 timeCreated: 1480838400
 PluginImporter:
