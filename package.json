@@ -1,6 +1,6 @@
 {
   "name": "com.google.firebase.messaging",
-  "version": "10.7.0",
+  "version": "11.0.0",
   "displayName": "Firebase Cloud Messaging",
   "keywords": [
     "Google",
@@ -15,8 +15,8 @@
     "url": "https://firebase.google.com/docs/cloud-messaging/unity/client"
   },
   "description": "Send targeted messages and notifications.\n\nCloud Messaging gives you a reliable and battery-efficient way to send messages and notifications across platforms. You can target your messages to certain segments of players and customize them to suit your game's brand. You can also gauge their effectiveness with statistics like click rate, open rate, and the downstream effect on conversions.",
-  "unity": "2018.1",
+  "unity": "2019.1",
   "dependencies": {
-    "com.google.firebase.app": "10.7.0"
+    "com.google.firebase.app": "11.0.0"
   }
 }
