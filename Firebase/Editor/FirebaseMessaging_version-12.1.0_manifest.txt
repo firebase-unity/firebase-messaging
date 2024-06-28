@@ -11,8 +11,8 @@ Assets/Firebase/Plugins/iOS/Firebase.Messaging.pdb
 Assets/Firebase/Plugins/x86_64/FirebaseCppMessaging.bundle
 Assets/Firebase/Plugins/x86_64/FirebaseCppMessaging.dll
 Assets/Firebase/Plugins/x86_64/FirebaseCppMessaging.so
-Assets/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/12.0.0/firebase-messaging-unity-12.0.0.pom
-Assets/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/12.0.0/firebase-messaging-unity-12.0.0.srcaar
+Assets/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/12.1.0/firebase-messaging-unity-12.1.0.pom
+Assets/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/12.1.0/firebase-messaging-unity-12.1.0.srcaar
 Assets/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/maven-metadata.xml
 Assets/Plugins/iOS/Firebase/libFirebaseCppMessaging.a
 Assets/Plugins/tvOS/Firebase/libFirebaseCppMessaging.a
